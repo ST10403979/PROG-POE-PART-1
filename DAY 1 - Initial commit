@@ -1,0 +1,7 @@
+Day 1: Initial Commit
+bash
+# Navigate to your project directory
+cd ContractClaimSystem
+
+# Initialize Git repository
+git init
