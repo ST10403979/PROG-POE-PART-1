@@ -255,5 +255,5 @@ License
 This project was created for academic purposes as part of a Portfolio of Evidence (POE) assignment. All rights reserved by the educational institution.
 
 Contact
-For questions about this prototype, please contact your course instructor or academic supervisor.
+For questions about this prototype, please contact Me.
 
