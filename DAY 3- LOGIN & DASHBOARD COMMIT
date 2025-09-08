@@ -1,0 +1,10 @@
+Day 3: Login & Dashboard Commit
+bash
+# Add all View files for login and dashboard
+git add Views/LoginView.xaml Views/LoginView.xaml.cs Views/DashboardView.xaml Views/DashboardView.xaml.cs
+
+# Check status
+git status
+
+# Commit
+git commit -m "Login and dashboard UI implementation: Created role-based login interface and dashboard navigation"
