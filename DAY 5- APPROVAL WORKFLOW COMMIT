@@ -1,0 +1,7 @@
+Day 5: Approval Workflow Commit
+bash
+# Add approval workflow files
+git add Views/ApprovalView.xaml Views/ApprovalView.xaml.cs Views/StatusTrackingView.xaml Views/StatusTrackingView.xaml.cs
+
+# Commit
+git commit -m "Approval workflow UI components: Created approval interface for coordinators/managers with status tracking visualization"
