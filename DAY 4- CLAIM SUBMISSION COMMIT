@@ -1,0 +1,7 @@
+Day 4: Claim Submission Commit
+bash
+# Add claim submission files
+git add Views/ClaimSubmissionView.xaml Views/ClaimSubmissionView.xaml.cs
+
+# Commit
+git commit -m "Claim submission UI components: Implemented claim form with month/year selection, hours input, and document upload interface"
