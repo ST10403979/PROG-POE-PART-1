@@ -1,0 +1,10 @@
+Day 2: Database Design Commit
+bash
+# Add UML diagram and documentation
+git add Models/ UML_Diagram.png Documentation.md
+
+# Check what you're about to commit
+git status
+
+# Commit with descriptive message
+git commit -m "Database design and documentation: Created UML class diagram with User, Claim, Document, and ApprovalHistory entities"
